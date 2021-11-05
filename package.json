@@ -23,6 +23,7 @@
     "connect-session-sequelize": "^7.1.2",
     "express": "^4.17.1",
     "express-handlebars": "^5.3.4",
-    "express-session": "^1.17.2"
+    "express-session": "^1.17.2",
+    "sequelize": "^6.9.0"
   }
 }
