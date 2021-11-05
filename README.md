@@ -15,7 +15,7 @@ Use this platform to disscuss topics on tech
 ## Installation Guide
 
 ## Instructions
-
+[Lets talk about tech!](https://lets-talk-about-tech-baby.herokuapp.com/login)
 ## Credits
 ![Screen Shot of App](assets/img.png)
 ## License
